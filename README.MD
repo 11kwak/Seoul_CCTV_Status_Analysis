@@ -6,6 +6,10 @@
 - Pandas의 Matplotlib의 기본적 사용법을 확인
 - 단순한 그래프 표현에서 한 단계 더 나아가 경향을 확인하고 시각화하는 기초 확인
 
+## Result
+
+![pic1](https://user-images.githubusercontent.com/87745990/127853470-79956e46-94d5-4a02-b595-63eab0898257.png)
+
 ## Tools
 
 - Python 3.9.6
