@@ -18,6 +18,8 @@
 ## Credits
 
 - Basic of Python, Pandas and Matplotlib via analysis of CCTV in Seoul
+- 01. CCTV_in_Seoul.csv (2016)
+- 01. population_in_Seoul.xlsx (2017.1.4)
 
 ## License
 - Just Analysis Data
