@@ -9,7 +9,7 @@
 ## Result
 
 ![pic1](https://user-images.githubusercontent.com/87745990/127853470-79956e46-94d5-4a02-b595-63eab0898257.png)
-
+![image](https://user-images.githubusercontent.com/87745990/129694583-3fa98262-28a9-4275-b049-4605ee0a3ec9.png)
 ## Tools
 
 - Python 3.9.6
