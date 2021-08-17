@@ -15,7 +15,7 @@
 - Python 3.9.6
 - Jupyter Notebook
 
-## Credits
+## Reference
 
 - Basic of Python, Pandas and Matplotlib via analysis of CCTV in Seoul
 - CCTV_in_Seoul.csv (2016)
